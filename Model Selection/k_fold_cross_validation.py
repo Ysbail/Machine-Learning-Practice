@@ -23,7 +23,7 @@ y_pred = classifier.predict(X_test)
 cm = confusion_matrix(y_test, y_pred)
 acc = accuracy_score(y_test, y_pred)
 
-accuracies = cross_val_score(estimator = classifier, X = X_train, y = y_train, cv = 10)
+accuracies = cross_val_score(estimator = classifier, X = X_train, y = y_train, cv = 15)
 
 accuracies.mean()
 accuracies.std()
