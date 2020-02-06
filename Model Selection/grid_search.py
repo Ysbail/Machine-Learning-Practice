@@ -30,7 +30,7 @@ accuracies.std()
 
 # grid search
 parameters = [{'C': [1, 10, 100, 1000], 'kernel': ['linear']}, 
-              {'C': [1, 10, 100, 1000], 'kernel': ['rbf'], 'gamma': [0.13, 0.12, 0.11, 0.1, 0.09, 0.08, 0.07, 0.06]}, 
+              {'C': [1, 10, 100, 1000], 'kernel': ['rbf'], 'gamma': [0.13, 0, 122, 0.121, 0.12, 0.119, 0.118, 0.11, 0.1, 0.09, 0.08, 0.07, 0.06]}, 
               ]
 
 grid_search = GridSearchCV(estimator = classifier, 
