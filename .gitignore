@@ -126,3 +126,5 @@ dmypy.json
 Clustering/varieties.pkl
 Diagnostic/samples.pkl
 Clustering/samples.pkl
+Clustering/samples2.pkl
+Clustering/variety_numbers.pkl
