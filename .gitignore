@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Clustering/varieties.pkl
+Diagnostic/samples.pkl
+Clustering/samples.pkl
