@@ -130,3 +130,9 @@ Clustering/samples2.pkl
 Clustering/variety_numbers.pkl
 Dimensionality Reduction/grains.pkl
 Dimensionality Reduction/samples.pkl
+NMF/wikipedia-vocabulary-utf8.txt
+NMF/wikipedia-vectors.csv
+NMF/scrobbler-small-sample.csv
+NMF/artists.csv
+Diagnostic/gm_2008.csv
+Clustering/company_stocks.csv
