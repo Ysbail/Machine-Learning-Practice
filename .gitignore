@@ -136,3 +136,10 @@ NMF/scrobbler-small-sample.csv
 NMF/artists.csv
 Diagnostic/gm_2008.csv
 Clustering/company_stocks.csv
+Decision Trees/auto.csv
+Decision Trees/bikes.csv
+Decision Trees/indian_liver_patient.csv
+Decision Trees/indian_liver_patient_preprocessed.csv
+Logistic Regression/IMDB Dataset.csv
+Voting Classifier/wbc.csv
+Voting Classifier/indian_liver_patient_preprocessed.csv
