@@ -145,3 +145,4 @@ Voting Classifier/wbc.csv
 Voting Classifier/indian_liver_patient_preprocessed.csv
 Bootstrap aggregation/indian_liver_patient_preprocessed.csv
 *.pkl
+*.csv
