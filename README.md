@@ -11,3 +11,4 @@ I would like to thank all the teachers who pass on their knowledge, both in thei
 - Sergey Fogelson
 - Kirill Eremenko
 - Hadelin de Ponteves
+- Jeroen Boeye
